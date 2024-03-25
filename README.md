@@ -1,7 +1,7 @@
 ### Welcome 2 agamecubeinsnow's Github 👋
 
 <h2>HTML Image</h2>
-<img src="https://tenor.com/bezji.gif" alt="none" width="500" height="600">
+<img src="https://img.freepik.com/premium-photo/sticker-girl-learning-coding-fundamen-creative-design-bold-line-cute-kawaii-style_655090-455254.jpg?w=1060" alt="Computer man" style="width:400px;height:400px;">
 <!--
 **agamecubeinsnow/agamecubeinsnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
