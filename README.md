@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 2 agamecubeinsnow's Github 👋
 
 <!--
 **agamecubeinsnow/agamecubeinsnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
