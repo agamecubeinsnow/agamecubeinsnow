@@ -1,7 +1,8 @@
 ### Welcome 2 agamecubeinsnow's Github 👋
 
+<div class="tenor-gif-embed" data-postid="15826314" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/code-coding-flying-through-code-e22-hacking-gif-15826314">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
-**agamecubeinsnow/agamecubeinsnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**agamecubeinsnow/agamecubeinsnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
